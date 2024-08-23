@@ -6,5 +6,11 @@
         "timestamp": "1724411849",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, working on adding a button that says \"Hey there\".",
+        "timestamp": "23082024111756",
+        "message_id": "guest23082024111755"
     }
 ]
